@@ -1,4 +1,3 @@
-## E aí? esse é o meu perfil! 
 <div align="center">
   <a href="https://github.com/sxrinha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxrinha&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
